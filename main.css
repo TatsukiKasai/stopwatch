@@ -1,0 +1,18 @@
+h3{
+    font-family: serif
+}
+#display{
+    font-size: 60px;
+    font-family: serif;
+    text-align: center;
+}
+.button{
+    margin-top: 20px;
+    text-align: center;
+}
+.btn{
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+    font-family: serif
+}
